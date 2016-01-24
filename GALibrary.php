@@ -5,7 +5,6 @@
  *
  * @author Pavel Filípek <www.filipek-czech.cz>
  * @copyright © 2016, Pavel Filípek
- * @build 2016-01-24
  */
 class GALibrary {
   /** Google Analytics measurement code. For example: UA-XXXXXXX-X  */
