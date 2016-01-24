@@ -1,7 +1,7 @@
 <?php
 /**
  * Library for communication with google analytics.
- * PHP support: >5.5.x
+ * PHP support: > 5.5.x
  *
  * @author Pavel Filípek <www.filipek-czech.cz>
  * @copyright © 2016, Pavel Filípek
